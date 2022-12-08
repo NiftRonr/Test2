@@ -1,19 +1,17 @@
 {
-  "name": "test",
+  "name": "test2",
   "version": "1.0.0",
-  "description": "��#\u0000 \u0000D\u0000U\u00002\u00003\u00002\u00003\u0000\r\u0000 \u0000#\u0000 \u0000D\u0000U\u00002\u00003\u00002\u00003\u0000\r\u0000 \u0000",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/NiftRonr/DU2323.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/NiftRonr/DU2323/issues"
-  },
-  "homepage": "https://github.com/NiftRonr/DU2323#readme"
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.45.1",
+    "@typescript-eslint/parser": "^5.45.1",
+    "eslint": "^8.29.0",
+    "eslint-plugin-react": "^7.31.11"
+  }
 }
